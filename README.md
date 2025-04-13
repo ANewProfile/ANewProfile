@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm currently in Middle School\
 🌱 &nbsp;I'm on track for learning more about React, Backend, and Machine Learning.\
 ✍️ &nbsp;In my free time, I enjoy speedcubing and hanging out with friends\
-✉️ &nbsp;You can shoot me an email at theochen16@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at theochen16@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
